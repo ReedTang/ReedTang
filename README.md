@@ -23,10 +23,7 @@ When I'm not coding, I enjoy hiking and nature photography, as well as exploring
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
 * 💻   With 4 years' computer science and technology education and 10 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-<!-- * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV). -->
 * ⚡   Bla bla bla...
-
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/dereknguyen269/count.svg)
 
 **Back-end**
 
