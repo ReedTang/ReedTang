@@ -56,19 +56,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```text
-TypeScript   3 hrs 17 mins   ████████████████░░░░░░░░░   63.65 %
-JavaScript   1 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-JSON         34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-HTML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+```text                                           
+GoFrame       33 hrs 17 mins   ████████████████░░░░░░░░░   63.65 %
+Spring Boot   12 hr 6 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Python        6 hr 34 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+PHP           57 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Other         51 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
