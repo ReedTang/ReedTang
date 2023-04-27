@@ -13,18 +13,4 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV).
-
-<details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
-
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
-
-<p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-</p>
+<!-- * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV). -->
