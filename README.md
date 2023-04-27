@@ -14,3 +14,6 @@ I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kuberne
 * 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 <!-- * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV). -->
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
