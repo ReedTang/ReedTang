@@ -27,6 +27,9 @@ When I'm not coding, I enjoy hiking and nature photography, as well as exploring
 
 **Back-end**
 
+<code><img height="30" src="https://github.com/ReedTang/ReedTang/blob/main/master/images/logo/Java.png"></code>
+<code><img height="30" src="https://github.com/ReedTang/ReedTang/blob/main/master/images/logo/Spring.png"></code>
+<code><img height="30" src="https://github.com/ReedTang/ReedTang/blob/main/master/images/logo/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
