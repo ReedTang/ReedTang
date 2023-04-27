@@ -4,7 +4,17 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
+Hi there, nice to meet you!  I'm a full-stack software engineer with over 10 years of experience, and a degree in Computer Science and Technology. 💻⎈🐳
+
+I have extensive knowledge in PHP and GO for the back-end, as well as JavaScript, Vue, and React for the front-end. 🌈 Currently, I'm excited to learn both Java and Python to further broaden my skills and expertise.
+
+Over the years, I've worked on over 10 large-scale projects, striving to constantly learn and adapt to new technologies and industry trends.  At heart, I'm a passionate learner and my enthusiasm for programming shows in my work.
+
+In addition to my technical skills, I have a deep fondness for Linux and open-source software. 🌈 I see Linux not just as an operating system, but as a way of life – a lifestyle that prioritizes freedom, flexibility, and innovation.
+
+I believe that behind every great software solution is a great team and culture, so I'm excited to collaborate with other passionate individuals to create cutting-edge solutions.
+
+When I'm not coding, I enjoy hiking and nature photography, as well as exploring new and exciting restaurants in my local area.  Thanks for stopping by, let's create some amazing software together! 🌈
 
 * 🧐   Interested in full stack. Recent focus on Infra.
 * 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
