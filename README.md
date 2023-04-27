@@ -17,11 +17,11 @@ I believe that behind every great software solution is a great team and culture,
 When I'm not coding, I enjoy hiking and nature photography, as well as exploring new and exciting restaurants in my local area.  Thanks for stopping by, let's create some amazing software together! 🌈
 
 * 🧐   Interested in full stack. Recent focus on Infra.
-* 💼   Used to be a Staff Engineer at Binance.com, but now I'm a CMU Student.
+* 💼   used to work as an engineer at Huawei, and now I'm an entrepreneur at a startup company.
 * 🎓   Master of Science in Software Engineering, B.S. in Computer Science. Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
 * 🌱   Currently learning Linux, Rust, Solidity, Math & Philosophy.
 * 📚   Reading 《Systems Performance 2nd Ed.》《BPF Performance Tools book》.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
+* 💻   With 4 years' computer science and technology education and 10 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 <!-- * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 7.67 million PV / 4.31 million UV). -->
 * ⚡   Bla bla bla...
