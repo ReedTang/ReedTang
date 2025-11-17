@@ -1,4 +1,3 @@
-![Header](https://github.com/ReedTang/openai-proxy/blob/master/aboutme.png "Header")
 
 # Hello there 👋
 
